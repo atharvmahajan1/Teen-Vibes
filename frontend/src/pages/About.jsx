@@ -44,38 +44,7 @@ const About = () => {
 
           <h3 className="heading">Arushi Mani </h3>
           <p className="body-text">
-            Arushi is an accomplished and versatile STEM and business student
-            with a proven track record in academics, leadership, and
-            extracurricular achievements. Currently attending Valley Christian
-            High School in San Jose, CA, Arushi has maintained an exceptional
-            weighted G.P.A. of 4.4, showcasing her commitment to academic
-            excellence. Arushi's standout achievements include her active
-            involvement in DECA, where she has secured impressive victories,
-            including 3rd place at Silicon valley wide DECA Silicon Valley
-            competitions for product innovation and 1st place in the
-            Entrepreneurship Innovation Plan Written Category at the Valley
-            Christian Mock Conference. This demonstrates her strong business
-            acumen for technology products and strategic thinking. In addition
-            to her DECA accomplishments, Arushi has excelled in various
-            leadership roles. As the Co-President of the Bringing Joy Club, she
-            successfully expanded the club to 50 active members and organized
-            impactful bi-monthly visits to the Belmont Senior Home. Her
-            leadership extends to the realm of debate, where she served as the
-            Impromptu Speaking Captain for her high school, achieving
-            octo-finals at the Parliamentary Debate Tournament of Champions.
-            Arushi's commitment to community service mentorship is evident in
-            her volunteer experiences, including leading a summer camp
-            curriculum for 5th graders and tutoring disadvantaged students
-            through the Valley Christian REACH Program. In the professional
-            sphere, Arushi gained practical experience as a Product Management
-            Intern at Ninja Focus, demonstrating her ability to lead customer
-            focus groups, conduct product trials, and organize crucial customer
-            information. Arushi's well-rounded profile extends beyond academics
-            and work, encompassing diverse interests and hobbies such as sports,
-            photography, emergency preparedness, environmental conservation, and
-            puzzles. Her multifaceted skill set and passion for making a
-            positive impact position Arushi as a promising individual ready to
-            excel in future academic and professional endeavors.
+            Arushi is a highly motivated and accomplished student with a diverse skill set and a passion for making a positive impact. With a strong foundation in computer science and entrepreneurship, gained through immersive summer programs at Brown University for data science and Wharton for entrepreneurship,  Arushi is well-versed in various aspects of technology and business; her success in DECA, winning 3rd place at Silicon Valley wide DECA conference for product innovation, highlights her entrepreneurial prowess. Arushi has developed an AI-powered software for sentiment analysis in adolescents' online communication, showcased at the Synopsys Science Fair and the 9th International Conference for Public Health based on her personal experiences and passion to make a difference to teens. As a natural leader, Arushi has held significant roles in extracurricular activities, such as an officer of her high school’s Speech and Debate Team, and a Co-President of a club dedicated to serving senior citizens. Her commitment to community service is evident through her volunteer work, including leading a two-week public speaking summer camp for 5th graders  and tutoring disadvantaged students as part of the Valley Christian Reach Program. In the professional realm, Arushi has gained practical experience as a Product Management Intern at Ninja Focus, where she demonstrated proficiency in organizing customer focus groups, setting up product trials, and managing customer information efficiently. Arushi's well-rounded profile extends beyond academics and work, encompassing diverse interests and hobbies such as sports, photography, emergency preparedness, environmental conservation, and puzzles. 
           </p>
           <br />
           <br />

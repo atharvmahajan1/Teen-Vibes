@@ -55,7 +55,7 @@ const SideNav = () => {
             </NavLink>
           </li>
         </ul>
-        <p className="copyright">© 2024. All rights reserved. TeenVibes</p>
+        <p className="copyright">© 2024 TeenVibes. All rights reserved.</p>
       </footer>
     </aside>
   );

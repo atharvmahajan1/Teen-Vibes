@@ -37,7 +37,7 @@ exports.openAiTextController = catchAsyncErrors(async (req, res, next) => {
   const { text } = req.body;
   const completion = await openai.completions.create({
     model: "gpt-3.5-turbo-instruct",
-    prompt: `Using the scale of Becks Depression Inventory, want you to score the words in this post: ${text} `,
+    prompt: `Using the scale of Becks Depression Inventory, want you to score the words in this post without diagnosing the mental state or depression: ${text} `,
     max_tokens: 2070,
     temperature: 0,
   });
@@ -76,7 +76,7 @@ exports.opeAiFileController = [
 
     const completion = await openai.completions.create({
       model: "gpt-3.5-turbo-instruct",
-      prompt: `Using the scale of Becks Depression Inventory, want you to score the words in this post: ${text} `,
+      prompt: `Using the scale of Becks Depression Inventory, want you to score the words in this post without diagnosing the mental state or depression: ${text} `,
       max_tokens: 2070,
       temperature: 0,
     });

@@ -2,7 +2,8 @@ import axios from "axios";
 const accessToken = localStorage.getItem("accessToken");
 let url;
 url = "http://localhost:4000";
-url = "https://synopsis-ai-fullstack-production.up.railway.app";
+//url = "https://synopsis-ai-fullstack-production.up.railway.app";
+url = "https://teen-vibes-production.up.railway.app";
 
 import {
   PromptRequest,
